@@ -33,3 +33,5 @@ Setup: https://news.mit.edu/2017/handheld-muon-detector-1121 Epic muon detector
 
 
 ![CAD picture](https://github.com/Acoltvet/ATAL/blob/main/ATAL_CAD.PNG)
+
+![gif](https://github.com/Acoltvet/ATAL/blob/main/ATALgif.webp)
