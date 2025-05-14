@@ -36,4 +36,4 @@ Setup: https://news.mit.edu/2017/handheld-muon-detector-1121 Epic muon detector
 
 ![gif](https://github.com/Acoltvet/ATAL/blob/main/ATALgif.webp)
 
-*Professional artist representation of the ATAL Muon Detector getting shot down by the US government after they think it's a Chinese spy balloon.
+*Professional artist representation of the ATAL Muon Detector getting shot down by the US government after they thought it was a Chinese spy balloon.
