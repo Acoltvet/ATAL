@@ -6,8 +6,8 @@ Muons (what the muon detector will measure)
 Alpha particles, beta particles, and other charged radiation (what the cloud chamber will visualize)
 Muon Detector gives you precise data on muons per second at different altitudes.
 Cloud Chamber gives you visual confirmation of different types of radiation present.
-![200w](https://github.com/user-attachments/assets/a24ca46e-d6fd-4d45-b5ce-3f9d5d800b9c)
 
+![200w](https://github.com/user-attachments/assets/a24ca46e-d6fd-4d45-b5ce-3f9d5d800b9c)
 Step 1: Build and Test the Muon Detector
 Uses plastic scintillator and photomultiplier tubes (PMTs).
 When a muon passes through, the scintillator lights up so the PMT detects the light and the microcontroller records it.
