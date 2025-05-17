@@ -3,9 +3,9 @@
 Notes:
 When cosmic rays (high-energy particles from space) hit the Earth’s atmosphere, they create secondary particles:
 Muons (what the muon detector will measure)
-Alpha particles, beta particles, and other charged radiation (what the cloud chamber will visualize)
+Alpha particles, beta particles, and other charged radiation (what the camera will visualize)
 Muon Detector gives you precise data on muons per second at different altitudes.
-Cloud Chamber gives you visual confirmation of different types of radiation present.
+Camera gives you visual confirmation of different types of radiation present.
 
 ![200w](https://github.com/user-attachments/assets/a24ca46e-d6fd-4d45-b5ce-3f9d5d800b9c)
 
