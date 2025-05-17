@@ -34,10 +34,11 @@ Comapre diffrent light readings detected by the camera at diffrent alltituddces 
 
 
 Setup: https://news.mit.edu/2017/handheld-muon-detector-1121 Epic muon detector
-![61hTk8ZCi9L _AC_AA180_](https://github.com/user-attachments/assets/463c721e-e22b-48b7-9a61-b1433c33efd9)
 
 
 ![CAD picture](https://github.com/Acoltvet/ATAL/blob/main/ATAL_CAD.PNG)
+
+![61hTk8ZCi9L _AC_AA180_](https://github.com/user-attachments/assets/463c721e-e22b-48b7-9a61-b1433c33efd9)
 
 ![gif](https://github.com/Acoltvet/ATAL/blob/main/ATALgif.webp)
 
