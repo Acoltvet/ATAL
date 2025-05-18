@@ -17,14 +17,14 @@ When a muon passes through, the scintillator lights up so the PMT detects the li
 Stack two or more layers so that only real muons get detected. 
 
 Step 3: Build and Test the Camera
-Uses teh rasberry pi and the batteries
-This will visualize the ultravoilet and radiation particles that the box will see in the atmopshere
+Uses the rasberry pi and the batteries
+This will visualize the radiation particles that the box will see in the atmopshere
 we will analyze the data / the amount of flashes of light we will see at each corrosponding alltitudes when it touches back down on the ground.
 
 Step 4: Launch the Muon Detector and Camera on a Balloon (100,000 ft)
 The muon detector will record the number of muons at different altitudes.
-Expect more muons at high altitude, then fewer as you go higher
-The camerea will detect all of the other raadiation particles that the moun detector will miss/
+We expect more muons at higher altitudes to a point, then decrease above that.
+The camera will allow for a visualization of the comsic rays and allow for more nuance in identifying different types.
 We expect the same thing as the moun detector, but with the other particles, and we hypothissis that the light intensity will increase as we rise.
 
 Step 5: Compare Data
