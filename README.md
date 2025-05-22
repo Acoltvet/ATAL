@@ -1,45 +1,37 @@
-# ATAL-
+# ATAL Muon Detector
 
-Notes:
-When cosmic rays (high-energy particles from space) hit the Earth’s atmosphere, they create secondary particles:
-Muons (what the muon detector will measure)
-Alpha particles, beta particles, and other charged radiation (what the camera will visualize)
-Muon Detector gives you precise data on muons per second at different altitudes.
-Camera gives you visual confirmation of different types of radiation present.
+## Project Overview
+This project is a part of the Apex event as a part of Hack Club. This event fund us to send a research project on a high altitude weather balloon to over 100,000 feet. As a part of this project, our team and project will be flown out to Boston where there will be about 14 other teams also launching their payloads. Our project will include 2 different ways to detect ionizing radiation from the sun. We will have 2 CosmicWatch detectors as the main detection method. We will use 2 to allow us to disinguish between muons and other forms of cosmic ray radiation. We will also have a camera with its lense blocked recording video. When ionizing radiation hits the camera's sensor, it will create a bright spot. This is not a great way of measuring data, but we think it will be helpful to visualize these radiation events. These 2 methods should allow us to model a clear relationship between altitude and different forms of radiation.
 
-![200w](https://github.com/user-attachments/assets/a24ca46e-d6fd-4d45-b5ce-3f9d5d800b9c)
+Why do we have 2 detectors?
 
-Step 1: reasearch how to make comic watch / moun detectors, the rasberry pi, the camerea, the battery case, and a parts list and BOM for everything. 
+Muons are created when cosmic ray radiation from the sum hit particles in the Earth's atmosphere. These muons can easily penetrate solid objects, meaning they will pass through the CosmicWatches while being detected. This is the reason we have 2 detectors, if both of them detect an event at the same time, then it was likely a muon and not some other form of radiation.
 
-Step 2: Build and Test the Muon Detector
-Uses plastic scintillator and photomultiplier tubes (PMTs).
-When a muon passes through, the scintillator lights up so the PMT detects the light and the microcontroller records it.
-Stack two or more layers so that only real muons get detected. 
+## Data
+- Timeline of detection events from CosmicWatches
+- Intesity of detection events from CosmicWatches
+- Video from camera
 
-Step 3: Build and Test the Camera
-Uses the rasberry pi and the batteries
-This will visualize the radiation particles that the box will see in the atmopshere
-we will analyze the data / the amount of flashes of light we will see at each corrosponding alltitudes when it touches back down on the ground.
+## Components
+- 2 CosmicWatch Muon Detectors
+- Rasberry Pi 2W
+- Rasberry Pi Camera HQ
+- Battery Box with about 3 Energizer Ultimate Lithium Batteries
+- Buck Boost Converter to get to 5v
+- Styrofoam box to insulate the components
+- 3D printed frame
 
-Step 4: Launch the Muon Detector and Camera on a Balloon (100,000 ft)
-The muon detector will record the number of muons at different altitudes.
-We expect more muons at higher altitudes to a point, then decrease above that.
-The camera will allow for a visualization of the comsic rays and allow for more nuance in identifying different types.
-We expect the same thing as the moun detector, but with the other particles, and we hypothissis that the light intensity will increase as we rise.
-
-Step 5: Compare Data
-Compare muon counts at different altitudes to confirm how cosmic ray interactions change.
-Comapre diffrent light readings detected by the camera at diffrent alltituddces to confirm how the moun particles and other particles density change
-
-
-
-Setup: https://news.mit.edu/2017/handheld-muon-detector-1121 Epic muon detector
-
-
+## CAD Model
 ![CAD picture](https://github.com/Acoltvet/ATAL/blob/main/ATAL_CAD.PNG)
-
- the insulated box we are going to use for the wheather baloon ![61hTk8ZCi9L _AC_AA180_](https://github.com/user-attachments/assets/463c721e-e22b-48b7-9a61-b1433c33efd9)
 
 ![gif](https://github.com/Acoltvet/ATAL/blob/main/ATALgif.webp)
 
 *Professional artist representation of the ATAL Muon Detector getting shot down by the US government after they thought it was a Chinese spy balloon.
+
+## Some helpful links to learn more
+- [Learn more about Apex](https://apex.hackclub.com/)
+- [Learn more about Hack Club](https://hackclub.com/)
+- [Short paper on CMOS detection(our camera)](https://via.library.depaul.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1021&context=ahac)
+- [CosmicWatch](http://cosmicwatch.lns.mit.edu/)
+- [Very long paper about how the CosmicWatch works](https://github.com/spenceraxani/CosmicWatch-Desktop-Muon-Detector-v2/blob/master/ThePhysicsPaper.pdf)
+
