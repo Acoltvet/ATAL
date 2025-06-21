@@ -1,0 +1,19 @@
+Recognizing WIFI
+country=US
+ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=netdev
+update_config=1
+
+Wifi Status
+iwconfig
+
+network={
+    ssid="TheMint"
+    psk="Porche964892"
+    key_mgmt=WPA-PSK
+}
+
+To ping Pi
+ping raspberrypi.local
+
+SSH
+ssh pi@raspberrypi.local
