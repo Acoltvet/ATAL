@@ -28,8 +28,7 @@ Muons are created when cosmic ray radiation from the sum hit particles in the Ea
 
 *Professional artist representation of the ATAL Muon Detector getting shot down by the US government after they thought it was a Chinese spy balloon.
 
-This is where we put the majority of our work and file throughout the entire course of the project; we where not informed that we had to activley use github to prove that we where working becuase we where told that the time tracker would be doing that. This is just a .PDF becuase it is on our school accounts
-https://docs.google.com/document/d/1b6-fZ10YWBzHJGWyRbqQUPaijdZfdGIOYBYEJ133cD0/edit?usp=sharing
+The Google Doc is where we put the majority of our reaasearch, work and files throughout the entire course of the project; we where not informed that we had to activley use github to prove that we where working becuase we where told that the time tracker would be doing that. This is just a .PDF becuase it is on our school accounts
 
 Acsess to presentational slideshow
 https://docs.google.com/presentation/d/1M4aht4pCl_btqryhWPEbzO4pHZW-teJE9TqAJX9XfbE/edit?usp=sharing
