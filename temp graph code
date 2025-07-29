@@ -1,0 +1,34 @@
+library(dplyr)
+library(ggplot2)
+library(readr)
+
+raw_data <- read_table(
+  "Muons.TXT",
+  skip = 4,  # skip header lines
+  col_names = c("Event", "Ardn_time_ms", "ADC", "SiPM_mV", "Deadtime_ms", "Temp_C", "Name"),
+  col_types = cols(
+    Event = col_integer(),
+    Ardn_time_ms = col_double(),
+    ADC = col_double(),
+    SiPM_mV = col_double(),
+    Deadtime_ms = col_double(),
+    Temp_C = col_double(),
+    Name = col_character()
+  )
+)
+
+print(head(raw_data))
+
+raw_data <- raw_data %>% filter(!is.na(Temp_C))
+
+raw_data <- raw_data %>%
+  mutate(Time_min = Ardn_time_ms / 1000 / 60)
+
+ggplot(raw_data, aes(x = Time_min, y = Temp_C)) +
+  geom_line(color = "steelblue", size = 1) +
+  labs(
+    title = "Temperature Over Time",
+    x = "Time (minutes)",
+    y = "Temperature (°C)"
+  ) +
+  theme_minimal()
