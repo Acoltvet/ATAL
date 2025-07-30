@@ -42,3 +42,11 @@ https://docs.google.com/presentation/d/1M4aht4pCl_btqryhWPEbzO4pHZW-teJE9TqAJX9X
 
 
 ## How the work was broken up amongst the group
+### Liam newbill
+- Researched, Cad Modeling, Worked on Camera, Set up Rasberry Pi, Making the Purchasing Lists, Building the Project, Soudering, Coding Pi and Cosmic Watches, Camera Data Gathering.
+### Anders Covelt
+- Researched, Worked on Camera, worked on proposal, Set up Rasberry Pi, Making Purchasing Lists, Building the Project, Coding the Nano_sd and PCB and the Camera, Data Analytics.
+### Tanner Helms
+- Researched, Graphic designer, worked on proposal, Worked on Camera, Set up Rasberry Pi, Making Purchasing Lists, Building the Project, Final Presentation.
+### Akhil Vadlamudi
+- Researched, Worked on proposal, worked on proposal, Worked on setting up Camera, Purchising Lists, Building the Project.
