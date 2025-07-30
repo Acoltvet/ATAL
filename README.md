@@ -40,3 +40,5 @@ https://docs.google.com/presentation/d/1M4aht4pCl_btqryhWPEbzO4pHZW-teJE9TqAJX9X
 - [CosmicWatch](http://cosmicwatch.lns.mit.edu/)
 - [Very long paper about how the CosmicWatch works](https://github.com/spenceraxani/CosmicWatch-Desktop-Muon-Detector-v2/blob/master/ThePhysicsPaper.pdf)
 
+
+## How the work was broken up amongst the group
