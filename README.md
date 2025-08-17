@@ -22,9 +22,9 @@ Muons are created when cosmic ray radiation from the sum hit particles in the Ea
 - 3D printed frame
 
 ## CAD Model
-![CAD picture](https://github.com/Acoltvet/ATAL/blob/main/ATAL_CAD.PNG)
+![CAD picture](https://github.com/Acoltvet/ATAL/blob/main/Images/ATAL_CAD.PNG)
 
-![gif](https://github.com/Acoltvet/ATAL/blob/main/ATALgif.webp)
+![gif](https://github.com/Acoltvet/ATAL/blob/main/Images/ATALgif.webp)
 
 *Professional artist representation of the ATAL Muon Detector getting shot down by the US government after they thought it was a Chinese spy balloon.
 
